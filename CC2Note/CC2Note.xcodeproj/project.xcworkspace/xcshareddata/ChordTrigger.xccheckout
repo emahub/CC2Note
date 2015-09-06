@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>265CC058-8291-4DDC-82CA-E771C7D21409</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CC2Note</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BDFA4F6952321FE9420CFDCEDA229062245B3C1A</key>
+		<string>github.com:emahub/CC2Note.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CC2Note/CC2Note.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BDFA4F6952321FE9420CFDCEDA229062245B3C1A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:emahub/CC2Note.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BDFA4F6952321FE9420CFDCEDA229062245B3C1A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BDFA4F6952321FE9420CFDCEDA229062245B3C1A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CC2Note</string>
+		</dict>
+	</array>
+</dict>
+</plist>

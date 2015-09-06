@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9EDB7D20-D11D-40E8-8C23-1D3C7237DA15</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CC2Note</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BDFA4F6952321FE9420CFDCEDA229062245B3C1A</key>
+		<string>github.com:emahub/ChordTrigger.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CC2Note/CC2Note.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BDFA4F6952321FE9420CFDCEDA229062245B3C1A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:emahub/ChordTrigger.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BDFA4F6952321FE9420CFDCEDA229062245B3C1A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BDFA4F6952321FE9420CFDCEDA229062245B3C1A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ChordTrigger</string>
+		</dict>
+	</array>
+</dict>
+</plist>
